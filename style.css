@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body{
+    color :honeydew;
+    }
+h1{
+    color: red;
+    }
+div{
+    font-size: 20px;
+    }
+h1{
+    text-align: center;
+    }
+h2{
+    text-align: center;
+    color: blueviolet;
+    }
+div{
+    text-align: center;
+    color: aqua;
+    }
+img{
+    text-align: center;
+    }
+html{
+        background-image : url(img/images.jpeg);
+    }
+html{
+        background-size : contain ;
+    }
+html{
+        background-image : url(img/images.jpeg);
+        background-repeat: repeat-y;
+    }
+html{
+        background-position : center center ;
+    }
+strong{
+    font-size: 25px;
+}
+
